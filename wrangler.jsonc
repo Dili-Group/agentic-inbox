@@ -50,15 +50,15 @@
   },
   "migrations": [
     {
-      "tag": "v4",
+      "tag": "v1",
       "new_sqlite_classes": ["MailboxDO"],
     },
     {
-      "tag": "v5",
+      "tag": "v2",
       "new_sqlite_classes": ["EmailAgent"],
     },
     {
-      "tag": "v6",
+      "tag": "v3",
       "new_sqlite_classes": ["EmailMCP"],
     },
   ],
